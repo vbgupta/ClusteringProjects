@@ -3,3 +3,6 @@
 1. K-means Clustering
 2. Hierarchical Clustering
 3. Agglomerative Clustering
+
+### K-means Clustering:
+> Used sklearn's make_blobs dataset that generates isotropic Gaussian blobs for clustering
